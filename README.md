@@ -1,6 +1,6 @@
 # ESP32-2432S028R-Panel-Mount-Case
 
-Panel mount case designed to go through a hole in 1.5mm thick steel or other panel. 
+Panel mount case designed to mount through a rectangular cutout in 1.5mm thick steel or other panel material. 
 
 Requires 54mm x 90mm rectangular cutout in your panel. To adjust for slightly thicker panel thickeness the back piece could be only extruded up to a certain height. 
 
