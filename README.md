@@ -1,0 +1,9 @@
+# ESP32-2432S028R-Panel-Mount-Case
+
+Panel mount case designed to go through a hole in 1.5mm thick steel or other panel. 
+
+Requires 54mm x 90mm rectangular cutout in your panel. To adjust for slightly thicker panel thickeness the back piece could be only extruded up to a certain height. 
+
+Screw holes are designed for M3x15mm metric screws + M3 x 5mm long by 5mm wide brass heat set inserts 
+
+If anyone actually uses this and does't have M3 insert nuts let me know and I can probably change that and upload another version with the M3 screws threading into the plastic itself.. 
